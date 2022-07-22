@@ -12,6 +12,6 @@
 <br />
 
 
-#### 🔭 I’m currently working on Grab apps as an Android engineer
+#### 🔭 I’m currently working Appboxo as a Senior Engineering Manager
 
 ![Public Github Stats](https://github-readme-stats.vercel.app/api?username=polyak01&show_icons=true&hide_border=true)
